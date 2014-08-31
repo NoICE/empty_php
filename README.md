@@ -1,4 +1,4 @@
 empty_php
 =========
 
-empty PHP project
+Empty PHP project. Used for testing PHP installations.
